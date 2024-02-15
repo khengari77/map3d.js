@@ -1,0 +1,35 @@
+{
+  "name": "map3d",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A Javascript 3D coordinate conversions for geospace ecef enu eci",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khengari77/map3d.js.git"
+  },
+  "keywords": [
+    "coordinate-conversion",
+    "coordinate-transformation",
+    "geolocation",
+    "geospace"
+  ],
+  "author": "khengari77",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khengari77/map3d.js/issues"
+  },
+  "homepage": "https://github.com/khengari77/map3d.js#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "jsdoc": "^4.0.2"
+  }
+}
